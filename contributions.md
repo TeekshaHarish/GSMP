@@ -12,7 +12,7 @@ Forms: Use forms to allow users to enter and submit information such as their pa
 
 Popovers: Use popovers to display additional information when users hover over or click on certain elements, such as a skin's rarity or the history of previous owners.
 
-Carousel: Use a carousel to display a rotating selection of featured skins, new arrivals, or skins that are currently on sale.
+
 
 Dropdown menus: Use dropdown menus to allow users to select different categories or filters for the skins they are browsing
 
