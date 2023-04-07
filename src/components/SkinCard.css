@@ -1,0 +1,23 @@
+.card1{
+    margin:10px 20px;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px brown;
+}.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: justify;
+    width:100%;
+}
+.card-body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    /* padding:10px; */
+}
+.btn{
+    background-color: rgba(8, 187, 172, 0.704);
+    color: black;
+}
